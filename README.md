@@ -6,5 +6,5 @@ This project builds an AI agent that plays a modified version of Tetris using MC
 ## Installation
 To run the game, download the files and run 
 '''
-python -m referee agent agent"
+python -m referee agent agent
 '''
